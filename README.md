@@ -21,3 +21,8 @@ Per svolgere l'esercitazione su Docker:
     3. Ho eseguito un commit;
     4. (PLUS) Ho reso la pagina dinamica tramite uno script e rifatto commit;
     5. Ho fatto il merge con il main e eseguito il push.
+
+## Lez 06 - WebApi
+
+Per svolgere l'esercitazione Docker/WebApp inizialmente ho creato ua cartella in cui clonare la repository dell'app da GitHub, poi ho creato i Dockerfile per backend (per il quale ho creato e attivato il venv) e frontend.
+In questa repository ho inserito i Dockerfile modificati aggiungendo la clonazione dell'app al loro interno.
